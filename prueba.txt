@@ -1,0 +1,6 @@
+Ahora este archivo es nuevo 
+Para generar conflictos
+Hola mundo!
+Esto es para fork
+Modificacion 1
+
